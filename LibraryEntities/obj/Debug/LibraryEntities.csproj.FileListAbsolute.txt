@@ -1,0 +1,6 @@
+C:\Users\Onur\source\repos\Library\LibraryEntities\bin\Debug\LibraryEntities.dll
+C:\Users\Onur\source\repos\Library\LibraryEntities\bin\Debug\LibraryEntities.pdb
+C:\Users\Onur\source\repos\Library\LibraryEntities\obj\Debug\LibraryEntities.csprojAssemblyReference.cache
+C:\Users\Onur\source\repos\Library\LibraryEntities\obj\Debug\LibraryEntities.csproj.CoreCompileInputs.cache
+C:\Users\Onur\source\repos\Library\LibraryEntities\obj\Debug\LibraryEntities.dll
+C:\Users\Onur\source\repos\Library\LibraryEntities\obj\Debug\LibraryEntities.pdb

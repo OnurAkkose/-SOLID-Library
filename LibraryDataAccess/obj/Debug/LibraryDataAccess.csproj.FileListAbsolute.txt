@@ -1,0 +1,14 @@
+C:\Users\Onur\source\repos\Library\LibraryDataAccess\bin\Debug\LibraryDataAccess.dll.config
+C:\Users\Onur\source\repos\Library\LibraryDataAccess\bin\Debug\LibraryDataAccess.dll
+C:\Users\Onur\source\repos\Library\LibraryDataAccess\bin\Debug\LibraryDataAccess.pdb
+C:\Users\Onur\source\repos\Library\LibraryDataAccess\bin\Debug\EntityFramework.dll
+C:\Users\Onur\source\repos\Library\LibraryDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Onur\source\repos\Library\LibraryDataAccess\bin\Debug\LibraryEntities.dll
+C:\Users\Onur\source\repos\Library\LibraryDataAccess\bin\Debug\LibraryEntities.pdb
+C:\Users\Onur\source\repos\Library\LibraryDataAccess\bin\Debug\EntityFramework.xml
+C:\Users\Onur\source\repos\Library\LibraryDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Onur\source\repos\Library\LibraryDataAccess\obj\Debug\LibraryDataAccess.csprojAssemblyReference.cache
+C:\Users\Onur\source\repos\Library\LibraryDataAccess\obj\Debug\LibraryDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Onur\source\repos\Library\LibraryDataAccess\obj\Debug\LibraryDataAccess.csproj.CopyComplete
+C:\Users\Onur\source\repos\Library\LibraryDataAccess\obj\Debug\LibraryDataAccess.dll
+C:\Users\Onur\source\repos\Library\LibraryDataAccess\obj\Debug\LibraryDataAccess.pdb
